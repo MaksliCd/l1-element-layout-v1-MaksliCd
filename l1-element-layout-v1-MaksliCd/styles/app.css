@@ -1,0 +1,17 @@
+tbody tr:nth-child(odd) {
+    background-color: #024156;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    align-self: center;
+}
+
+.table_wrapper {
+    display: flex;
+    justify-content: center;
+}
